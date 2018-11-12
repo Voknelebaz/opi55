@@ -21,7 +21,7 @@ int main()
 		}
 	}
 	cout << " " << endl;
-	cout << "Index of last negative element " << n - 1 << endl;
+	
 	system("pause");
 	return 0;
 
